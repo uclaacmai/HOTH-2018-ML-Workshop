@@ -1,5 +1,5 @@
 # HOTH 2018 ML Workshop
-This is a beginner-friendly workshop on using logistic regression to classify images of dogs and cats. This workshop is based off of the (https://www.coursera.org/learn/neural-networks-deep-learning)[Neural Networks and Deep Learning] course on Coursera, taught by Andrew Ng. We highly recommend taking this course if you ant to learn more about machine learning.
+This is a beginner-friendly workshop on using logistic regression to classify images of dogs and cats. This workshop is based off of the [https://www.coursera.org/learn/neural-networks-deep-learning](Neural Networks and Deep Learning) course on Coursera, taught by Andrew Ng. We highly recommend taking this course if you ant to learn more about machine learning.
 
 ## Prerequisites
 
