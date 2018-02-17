@@ -22,6 +22,7 @@ This is a beginner-friendly workshop on using logistic regression to classify im
 * PyTables
 * Numpy
 * Matplotlib
+
 You can install these using pip on Unix systems or Anaconda on Windows
 
 1. clone the repository
